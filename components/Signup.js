@@ -34,7 +34,7 @@ function Signup() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: "skyblue",
+    backgroundColor: "blue",
     alignItems: "center",
     justifyContent: "center",
     gap: 10,
