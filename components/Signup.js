@@ -68,11 +68,11 @@ const styles = StyleSheet.create({
     shadowRadius: 15,
     elevation: 25,
   },
-  text: {
-    textAlign: "center",
-    fontSize: 20,
-    color: "skyblue",
-    fontWeight: "bold",
-  },
+  // text: {
+  //   textAlign: "center",
+  //   fontSize: 20,
+  //   color: "skyblue",
+  //   fontWeight: "bold",
+  // },
 });
 export default Signup;
